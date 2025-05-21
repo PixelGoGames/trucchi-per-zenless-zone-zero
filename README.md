@@ -11,7 +11,7 @@
 
 <ul>
   <li>Polari illimitati.</li>
-  <li>Bonuss illimitati.</li>
+  <li>Bonus illimitati.</li>
   <li>Data Set illimitati.</li>
   <li>Monete di gioco illimitate.</li>
   <li>Gettoni missione illimitati.</li>
